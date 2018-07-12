@@ -1,4 +1,4 @@
-var recipies={}
+var recipies={};
 
 Function
 updateObjectWithKeyAndValue(object, key, value){
